@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [17/Jun/2019:14:43:45 +0800] "POST /register?username=11&number=123456&password=1111&email=18875147420@163.com&phone=18875147420 HTTP/1.1" 200 48 http-bio-8084-exec-2 11248
+0:0:0:0:0:0:0:1 - - [17/Jun/2019:14:49:57 +0800] "GET /userlogin?number=2015210562&password=ly1396582658 HTTP/1.1" 200 82 http-bio-8084-exec-5 3834
+0:0:0:0:0:0:0:1 - - [17/Jun/2019:14:50:46 +0800] "GET /userInfo?token=f369b234-95a3-40b0-ab1f-eba113059961 HTTP/1.1" 200 190 http-bio-8084-exec-6 1674
+0:0:0:0:0:0:0:1 - - [17/Jun/2019:15:01:09 +0800] "GET /memberDesc?id=1559917776724 HTTP/1.1" 200 48 http-bio-8084-exec-9 1639
+0:0:0:0:0:0:0:1 - - [17/Jun/2019:15:03:35 +0800] "GET /lent HTTP/1.1" 200 1910 http-bio-8084-exec-2 3578

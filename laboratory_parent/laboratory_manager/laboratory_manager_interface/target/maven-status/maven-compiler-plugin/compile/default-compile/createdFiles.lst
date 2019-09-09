@@ -1,0 +1,7 @@
+com\lab\service\SearchService.class
+com\lab\service\LabItemService.class
+com\lab\service\UserService.class
+com\lab\service\MemberService.class
+com\lab\service\RegisterService.class
+com\lab\service\LentListService.class
+com\lab\service\NewMemberService.class

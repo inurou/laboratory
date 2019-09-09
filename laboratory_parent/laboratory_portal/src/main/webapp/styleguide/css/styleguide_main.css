@@ -1,0 +1,134 @@
+.section-header2{
+  overflow: hidden;
+  position: sticky;
+  top: 0;
+}
+
+#titleDiv{
+  background-image: url("../../img/index_background2.jpeg");
+  background-size: cover;
+  height: 30vh;
+  padding: 2rem;
+}
+
+.p-descriptionHead{
+  color: white;
+}
+
+.styleguide-section{
+  width: 90%;
+  margin: 4rem auto;
+}
+
+.element-block{
+  min-width: 60%;
+  margin: 1rem 2rem 1rem 1rem;
+}
+
+.code-block{
+  min-width: 20rem;
+  margin: 1rem auto;
+  padding: 1rem 1rem;
+  background-color: white;
+}
+
+h2{
+  border-bottom: 1px solid #fabe6f;
+}
+h3{
+  margin: 2rem 0rem 0rem 1rem;
+}
+
+/* .class-cssSelector p{
+  font-colour: rgb(239, 122, 133);
+}
+
+.id-cssSelector p{
+  colour: blue;
+} */
+
+/* gid structure */
+.gridContainer{
+  background-color: #5a5a5a;
+}
+.gridBlock{
+  background-color: #edd7c8;
+  padding: 1rem;
+  text-align: center;
+  margin: 0.5rem 0.5rem;
+}
+
+/* Headings */
+.styleguide_h2{
+  border: none;
+}
+
+.styleguide_h3{
+  margin: 0rem;
+}
+
+/* header */
+#nav-center-toggle2 img{
+  width: 1.4rem;
+  height: auto;
+}
+
+@media screen and (min-width: 1100px){
+  #nav-center-toggle2{
+    display: none!important;
+  }
+
+  #nav-center-toggle2 .hidden{
+    display: inline-block!important;
+  }
+
+  .side-nav #side-nav-close-button2{
+    display: none;
+  }
+
+  #main-nav-items2{
+    display: block!important;
+    visibility: visible!important;
+  }
+}
+
+@media screen and (max-width: 1100px){
+  #nav-center-toggle2{
+    float: left;
+    display: inline;
+  }
+}
+
+/* colour swatches */
+.colourBlock{
+  width: 15%;
+  padding: 1rem;
+}
+.grey{
+  background-color: #222222;
+  color: white;
+}
+
+.lightBlue{
+  background-color: #d2e3ed;
+}
+
+.darkGrey{
+  background-color: #a39491;
+}
+
+.lightbeige{
+  background-color: #fabe6f;
+}
+
+.smokyorange{
+  background-color: #c78b3c;
+}
+
+.camel{
+  background-color: #c2b59b;
+}
+
+#other-brand-elements{
+  margin-bottom: 5rem;
+}

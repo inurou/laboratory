@@ -1,0 +1,7 @@
+com\lab\protal\controller\RegisterController.class
+com\lab\protal\controller\IndexController.class
+com\lab\protal\controller\NewMemberController.class
+com\lab\protal\util\MessageUtil.class
+com\lab\protal\controller\MemberDescController.class
+com\lab\protal\controller\LentController.class
+com\lab\protal\controller\EquipmentController.class

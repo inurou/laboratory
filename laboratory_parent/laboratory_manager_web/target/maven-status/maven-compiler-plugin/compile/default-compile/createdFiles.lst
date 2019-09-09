@@ -1,0 +1,9 @@
+com\lab\controller\MemberController.class
+com\lab\utils\FastDFSClient.class
+com\lab\controller\LentListController.class
+com\lab\controller\PictureController.class
+com\lab\controller\SearchController.class
+com\lab\controller\NewMemberController.class
+com\lab\controller\PageController.class
+com\lab\controller\LabItemController.class
+com\lab\controller\UserController.class

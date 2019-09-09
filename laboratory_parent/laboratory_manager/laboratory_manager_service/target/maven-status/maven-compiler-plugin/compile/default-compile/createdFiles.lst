@@ -1,0 +1,10 @@
+com\lab\service\impl\LentListServiceImpl.class
+com\lab\service\impl\SearchServiceImpl.class
+com\lab\service\impl\NewMemberServiceImpl.class
+com\lab\service\impl\MemberServiceImpl.class
+com\lab\service\impl\LabItemServiceImpl.class
+com\lab\jedis\JedisClient.class
+com\lab\jedis\JedisClientCluster.class
+com\lab\service\impl\RegisterServiceImpl.class
+com\lab\jedis\JedisClientPool.class
+com\lab\service\impl\UserServiceImpl.class

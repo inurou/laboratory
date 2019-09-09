@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="laboratory_common" />
+        <module name="laboratory_manager_dao" />
+        <module name="laboratory_manager_interface" />
+        <module name="laboratory_manager_pojo" />
+        <module name="laboratory_manager_service" />
+        <module name="laboratory_manager_web" />
+        <module name="laboratory_portal" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="laboratory" target="1.5" />
+      <module name="laboratory_sso" target="1.7" />
+      <module name="laboratory_sso_interface" target="1.7" />
+      <module name="laboratory_sso_service" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

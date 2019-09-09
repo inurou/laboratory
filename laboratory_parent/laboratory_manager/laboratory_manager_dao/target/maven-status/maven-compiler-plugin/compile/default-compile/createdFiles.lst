@@ -1,0 +1,9 @@
+com\lab\mapper\EquipmentListMapper.class
+com\lab\mapper\SearchMapper.class
+com\lab\mapper\MemberMapper.class
+com\lab\mapper\NewMemberMapper.class
+com\lab\mapper\UserMapper.class
+com\lab\mapper\UserListMapper.class
+com\lab\mapper\EquipmentListDescMapper.class
+com\lab\mapper\LabItemMapper.class
+com\lab\mapper\LentListMapper.class
